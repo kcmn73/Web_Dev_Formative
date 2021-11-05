@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="Web_Dev_Formative.css">
+</head>
+
+<body>
+  <div class="navBar">
+  <ul>
+      <li>Home</li>
+      <li>Nav 2</li>
+      <li>Nav 3</li>
+  </ul>  
+  </div>
+  
+  
+
+ <img src="https://s12982.pcdn.co/wp-content/uploads/2017/09/9-imazon-banner-1.jpg"
+  alt="Deforestation" 
+  class="center"
+  />
+
+ 
+
+
+  <h1>What is Climate Change? Why is it an issue?</h1> 
+  
+  <p>    
+    Climate is just the typical and normal weather is a specific geographical location over a lomng period of time.  
+    By no surprise, it is normal for different places to have different average temperature. It is beacsue of this that
+    it is unfortunate that this movement was hindered by the name "global warming". A common argument raised by those
+    naïve to what the real issue is say, "It is still cold in country. We've had stronger snow storms than ever before". 
+    While this is true, and no one is denying it, the real issue is "climate change". 
+  </p>
+  <p>
+    While the climate is by no means static, what climate change is really trying to tackle is the unnatural human-caused 
+    rapid alteration of our environment. This is due to a a veriety of factors, some of which include 
+    the use of oil, gas and coal as a main energy source. It is used to heat homes, production plants and transport. 
+    The issue with use of such energy sources is they are non-renewable, and when they are used, they produce greenhouse
+    gasses as a biproduct. The gasses (the main culperate being carbon dioxide) cause the heat from the sun
+    to stay trapped in the atmosphere, hence the name greenhouse gasses. Thus, an increasing global avreage of temperature. 
+  </p>
+<p>
+    Now while it is not true it has gotten warmer everywhere <bold>yet</bold>, it is true that more extreme climate events are
+    becoming more and more common. We are seeing more droughts, more hurruicanes, more cyclones, more typhoons, more floods,
+    more dust storms, more fires, more blizzards...
+</p>
+<p>
+    The list goes on.
+</p>
+<p>
+    The effects are also innumerable.
+    Millions of deaths around the globe from drought, inability to farm, destruction of entire cities from extreme weather,
+    extinction and endangerment of species of animals...
+</p>
+<p>
+    The list goes on. 
+</p>
+<p>
+    Many of those who this website will reach are most likely in countries that have the luxary on still not being ovetly 
+    affected by these issues. However, one thing we can be sure of is this will change. This is not a "poor people problem",
+    this is a human problem. This is a global problem...
+</p>
+<p>
+    and a problem that we <italic>must</italic> solve.
+</p>
+
+</body>
+</html>
+
